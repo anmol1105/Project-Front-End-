@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*
+{
+	margin:0px;
+	padding:0px;
+}
+.container
+{
+	width:1170 auto;
+	margin:0px; 
+}
+.contact-number
+{
+  float:left;	
+}
+.social-icon 
+{
+	float:right;
+	color:white;
+}
+.clear
+{
+	clear:both;
+}
+.contact-number p {
+	font-size:16px;
+	letter-spacing:1px;
+	font-family:arial;
+	color:white;
+}
+.social-icon  a. fa{
+	color:white;
+}
+.top-header
+{
+	background:black;
+}
+.logo
+{
+	text-align:center;
+}
+.menu ul li {
+	list-style:none;
+	float:left;
+}
+.menu 
+{
+	background:black;
+}
+.menu ul li a {
+	color: white;
+	display: block;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	text-transform:uppercase;
+	letter-spacing:1.5px;
+	font-size:15px;
+	font-family:arial;
+}
+.slider img
+{
+	width:100%;
+}
+.about h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 300;
+    color: white;
+    background: #8e4472;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.about p {
+	font-family: arial;
+	text-align: justify;
+	line-height: 30px;
+	font-size: 20px;
+}
+.services h1
+{
+	font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 300;
+    color: white;
+    background: #8e4472;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.services-one {
+	border: 1px solid grey;
+	border-radius: 2px;
+	box-shadow: 0px -1px 5px 3px #969696;
+	text-align: center;
+	width: 32%;
+	float: left;
+	margin-right: 13px;
+	margin-left: 1px;
+}
+.services-one .fa {
+    font-size: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.services-one h2 {
+	font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: #874a6d;
+    color: white;
+    padding:10px 0 10px 0;
+}
+.services-one p {
+    font-size: 19px;
+    text-align: justify;
+    font-family: arial;
+    line-height: 40px;
+}
+.gallery h1
+{
+	font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 300;
+    color: white;
+    background: #8e4472;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.gallery img {
+    width: 350px;
+    border: 1px solid gray;
+    padding: 1px;
+    box-shadow: -1px 4px 7px 2px #969696;
+    margin-right: 33px;
+    margin-left: 33px;
+}
+#mapping {
+	width: 99%;
+	height: 350px;
+}
+.contact h1 {
+	font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 300;
+    color: white;
+    background: #8e4472;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.footer {
+	background: black;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
